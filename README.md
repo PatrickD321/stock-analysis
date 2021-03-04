@@ -9,7 +9,7 @@ Putting together the correct Conditionals that will enable the code to run accur
 Separating each iteration that was done in refactoring the Module 2 solution, proved to be almost ten times faster than was demonstrated in Modules. This shows by taking fewer steps, using less memory the processor will be more efficient if the spreadsheet was much larger than what was used in Module 2. Screenshots provided in the Resources folder demonstrated how more effective to use separate loops as oppose to nested loops.
 ## Summary
 ### Disadvantages
-One of the main disadvantages of refactoring code is the time that is required to make work properly as its predecessor. Reworking the existing code can lead to mistakes and output that might not be consistence with the original code. 
+One of the main disadvantages of refactoring code is the time that is required to make work properly as its predecessor. Reworking the existing code can lead to mistakes and outputs that might not be consistence with the original code. 
 ### Advantages
 Editing a code allows the programmer find and fix issues that may prevent the code to be efficient. The code can be less complex and easier to read by someone who not involved in the developments of the process. 
 ### Advantages in VBA
