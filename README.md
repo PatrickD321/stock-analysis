@@ -12,3 +12,7 @@ Separating each iteration that was done in refactoring the Module 2 solution, pr
 One of the main disadvantages of refactoring code is the time that is required to make work properly as its predecessor. Reworking the existing code can lead to mistakes and output that might not be consistence with the original code. 
 ### Advantages
 Editing a code allows the programmer find and fix issues that may prevent the code to be efficient. The code can be less complex and easier to read by someone who not involved in the developments of the process. 
+### Advantages in VBA
+The code excuted much faster when Refactored in VBA, fewer lines was used to get the same result.
+### Diadvantages in VBA
+Very time consuming and can be hard to implement
